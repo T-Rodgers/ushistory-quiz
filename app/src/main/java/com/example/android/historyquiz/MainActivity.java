@@ -11,7 +11,7 @@ import android.widget.RadioGroup;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    //
+
 
     // Radio Group for each box
     RadioGroup rg1;
