@@ -1,0 +1,45 @@
+<resources>
+    <!-- Question Strings -->
+    <string name="app_name">History Quiz</string>
+    <string name="question_1">Who was a general of the Union Army in the Civil War?</string>
+    <string name="question_2">From whom did we purchase the Louisiana Territory from in 1803?</string>
+    <string name="question_3">What does the expression \"Give me your John Hancock\" refer to?</string>
+    <string name="question_4">Who was a guide on the Lewis and Clark expeditions?</string>
+    <string name="question_5">What day did the United States decide to join World War II?</string>
+    <string name="question_6">Check at least (3) of the original Thirteen Colonies...</string>
+    <string name="question_7">Who issued \"The Emancipation Proclamation\"?</string>
+
+    <!-- Answer Strings -->
+    <string name="answer1_1">Bob Dylan</string>
+    <string name="answer1_2">Ulysses S. Grant</string>
+    <string name="answer1_3">Thomas Jefferson</string>
+    <string name="answer2_1">Germany</string>
+    <string name="answer2_2">Italy</string>
+    <string name="answer2_3">France</string>
+    <string name="answer3_1">Signing of the Declaration of Independance in big bold letters</string>
+    <string name="answer3_2">Being an ambidextrous writer</string>
+    <string name="answer3_3">Giving your undivided attention</string>
+    <string name="answer4_1">Pocahontas</string>
+    <string name="answer4_2">Sacajawea</string>
+    <string name="answer4_3">Dora the Explorer (and her Map)</string>
+    <string name="answer5_1">December 25, 1940</string>
+    <string name="answer5_2">December 7, 1941</string>
+    <string name="answer5_3">May 8, 1945</string>
+
+    <!-- Checkbox Strings -->
+    <string name="checkbox_virginia">Virginia</string>
+    <string name="checkbox_michigan">Michigan</string>
+    <string name="checkbox_california">California</string>
+    <string name="checkbox_massachusetts">Massachusetts</string>
+    <string name="checkbox_texas">Texas</string>
+    <string name="checkbox_idaho">Idaho</string>
+    <string name="checkbox_georgia">Georgia</string>
+
+    <!-- Misc Strings -->
+    <string name="submit">Submit</string>
+    <string name="Hint">Hint</string>
+    <string name="editText_hint">Enter answer here...</string>
+    <string name="title">U.S. History Quiz</string>
+    <string name="reset">Reset</string>
+
+</resources>

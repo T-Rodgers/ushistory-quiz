@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Red Primary Color -->
+    <color name="colorPrimary">#b71c1c</color>
+    <color name="colorPrimaryDark">#7f0000</color>
+    <color name="colorAccent">#f05545</color>
+
+    <!-- Blue Secondary Color -->
+    <color name="colorSecondary">#1a237e</color>
+    <color name="colorSecondaryDark">#000051</color>
+    <color name="colorSecondaryAccent">#534bae</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+</resources>
