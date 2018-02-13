@@ -110,7 +110,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void toastHintFive(View view) {
         Toast hintFiveToast = Toast.makeText(MainActivity.this,
-                "\"Day of Infamy\"", Toast.LENGTH_LONG);
+                "\"The day after the \'Day of Infamy\'\"", Toast.LENGTH_LONG);
         hintFiveToast.show();
     }
 
@@ -135,7 +135,6 @@ public class MainActivity extends AppCompatActivity {
         georgia = (CheckBox) findViewById(R.id.georgia);
         if (virginia.isChecked() && massachusetts.isChecked() && georgia.isChecked()) {
             quantityCorrect += 1;
-            return;
         }
     }
 
