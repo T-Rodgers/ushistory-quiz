@@ -56,22 +56,18 @@ public class MainActivity extends AppCompatActivity {
         correctButton1 = (RadioButton) findViewById(R.id.correctAnswer_1);
         if (correctButton1.isChecked()) {
             quantityCorrect = quantityCorrect + 1;
-            return;
         }
         correctButton2 = (RadioButton) findViewById(R.id.correctAnswer_2);
         if (correctButton2.isChecked()) {
             quantityCorrect += 1;
-            return;
         }
         correctButton3 = (RadioButton) findViewById(R.id.correctAnswer_3);
         if (correctButton3.isChecked()) {
             quantityCorrect += 1;
-            return;
         }
         correctButton4 = (RadioButton) findViewById(R.id.correctAnswer_4);
         if (correctButton4.isChecked()) {
             quantityCorrect += 1;
-            return;
         }
         correctButton5 = (RadioButton) findViewById(R.id.correctAnswer_5);
         if (correctButton5.isChecked()) {
