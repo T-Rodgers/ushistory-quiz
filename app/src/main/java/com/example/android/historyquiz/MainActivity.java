@@ -129,6 +129,8 @@ public class MainActivity extends AppCompatActivity {
         virginia = (CheckBox) findViewById(R.id.virginia);
         massachusetts = (CheckBox) findViewById(R.id.massachusetts);
         georgia = (CheckBox) findViewById(R.id.georgia);
+
+        // Correct checkboxes adding to quantityCorrect
         if (virginia.isChecked() && massachusetts.isChecked() && georgia.isChecked()) {
             quantityCorrect += 1;
         }
